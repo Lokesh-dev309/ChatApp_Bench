@@ -2,19 +2,22 @@
 
 
 there a few screenshots of my app
-<p align="center">
-   
 
-![WhatsApp Image 2026-04-08 at 10 10 07 PM](https://github.com/user-attachments/assets/a74941e2-b193-4bf1-9bba-03f8c7a3ed06)
-![WhatsApp Image 2026-04-08 at 10 10 07 PM (1)](https://github.com/user-attachments/assets/a085184c-0671-4693-a299-8a73a99ea65d)
-![WhatsApp Image 2026-04-08 at 10 10 08 PM (1)](https://github.com/user-attachments/assets/ac04bea2-fc37-4171-8412-9960a6db1540)
-   
-</p>
 <p align="center">
-![WhatsApp Image 2026-04-08 at 10 10 07 PM (3)](https://github.com/user-attachments/assets/f0b1aca9-870e-4103-b7b7-565a73910e8f)
-![WhatsApp Image 2026-04-08 at 10 10 08 PM](https://github.com/user-attachments/assets/04b152cf-6501-4919-ad9a-6e98507ed419)
-![WhatsApp Image 2026-04-08 at 10 10 07 PM (2)](https://github.com/user-attachments/assets/e5ac1631-df2a-4b91-ae21-9d7e70876385)
+
+  <img src="https://github.com/user-attachments/assets/a74941e2-b193-4bf1-9bba-03f8c7a3ed06" width="30%" />
+  <img src="https://github.com/user-attachments/assets/a085184c-0671-4693-a299-8a73a99ea65d" width="30%" />
+  <img src="https://github.com/user-attachments/assets/a08e2716-ad7b-4ef1-bf18-85a8f543bbab" width="30%" />
+
 </p>
+<br><br><br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d9fdd07a-ffee-4bba-b3fe-20f20df3e7a7" width="30%" />
+  <img src="https://github.com/user-attachments/assets/8855af9e-67ee-4de3-8911-9044cd2e84a8" width="30%" />
+  <img src="image6.png" width="30%" />
+</p>
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
