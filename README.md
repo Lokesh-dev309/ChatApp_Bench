@@ -1,5 +1,19 @@
 # Welcome to your Expo app 👋
 
+
+there a few screenshots of my app
+<p classname=flex>
+   
+
+![WhatsApp Image 2026-04-08 at 10 10 07 PM](https://github.com/user-attachments/assets/a74941e2-b193-4bf1-9bba-03f8c7a3ed06)
+![WhatsApp Image 2026-04-08 at 10 10 07 PM (1)](https://github.com/user-attachments/assets/a085184c-0671-4693-a299-8a73a99ea65d)
+![WhatsApp Image 2026-04-08 at 10 10 08 PM (1)](https://github.com/user-attachments/assets/ac04bea2-fc37-4171-8412-9960a6db1540)
+![WhatsApp Image 2026-04-08 at 10 10 07 PM (3)](https://github.com/user-attachments/assets/f0b1aca9-870e-4103-b7b7-565a73910e8f)
+![WhatsApp Image 2026-04-08 at 10 10 08 PM](https://github.com/user-attachments/assets/04b152cf-6501-4919-ad9a-6e98507ed419)
+![WhatsApp Image 2026-04-08 at 10 10 07 PM (2)](https://github.com/user-attachments/assets/e5ac1631-df2a-4b91-ae21-9d7e70876385)
+
+</p>
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
